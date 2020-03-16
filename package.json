@@ -1,0 +1,11 @@
+{
+  "name": "ak-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sandbox"
+  },
+  "author": "",
+  "license": "ISC"
+}
