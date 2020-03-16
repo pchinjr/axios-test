@@ -1,6 +1,17 @@
+# Warning! Do Not Edit
+# --------------------
+# This is a generated file and will be overwritten
+
 @app
-init
+fly-x01
+
+@static
 
 @http
 get /
-  
+
+@tables
+data
+  scopeID *String
+  dataID **String
+  ttl TTL
